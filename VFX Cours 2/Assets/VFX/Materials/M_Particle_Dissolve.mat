@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SGM_Particle_Dissolve
+  m_Name: M_Particle_Dissolve
   m_Shader: {fileID: -6465566751694194690, guid: 31a44d772a837424cae894ef76472515,
     type: 3}
   m_Parent: {fileID: 0}

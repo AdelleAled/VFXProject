@@ -65,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ffb40056463e13348aac58c744d50935, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -114,7 +114,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _ColorIntensity: 2.25
     - _ColorMode: 0
-    - _ColorMul: 4
+    - _ColorMul: 3
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -130,6 +130,7 @@ Material:
     - _FlipbookMode: 0
     - _Float: 0
     - _Float_1: 0
+    - _Float_2: 2
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
